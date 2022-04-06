@@ -1,3 +1,4 @@
+#git clone "Link do repositorio"
 #git add exemplo
 #git status
 #git commit -m "mensagem"
